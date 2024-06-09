@@ -4,6 +4,8 @@
 
 The Travel List App is a simple web application designed to help users manage a list of items they need to pack for travelling. Built with React and JavaScript, this app provides an intuitive interface for adding items to a packing list, marking items as packed, deleting them, and various sorting functionalities.
 
+This webpage is deployed at https://abbieduan.github.io/travel-list/ 😊 Check it out!
+
 ## Features
 
 - **Add Items**: Users can add items to the packing list by entering the name and quantity of each item.
